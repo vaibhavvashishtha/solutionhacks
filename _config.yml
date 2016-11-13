@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Solutionhacks Tech
-email: solutionhacks.tech@gmail.com
+title: I Am Learning Tech
+email: iamlearning.tech.today@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The solution hacks tech company is a solution provider for businesses with following needs
   - Digital Transformations
@@ -24,8 +24,8 @@ description: > # this means to ignore newlines until "baseurl:"
     - Web
     - Mobile
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://solutionhacks.tech" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://iamlearning.tech" # the base hostname & protocol for your site
+twitter_username: 
 github_username:  
 
 # Build settings
